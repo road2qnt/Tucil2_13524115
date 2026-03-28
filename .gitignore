@@ -1,3 +1,11 @@
-.vscode
-.obj
+
 bin/
+
+
+
+*.o
+*.obj
+
+
+.vscode/
+

@@ -1,11 +1,5 @@
-
 bin/
-
-
-
+test/
 *.o
 *.obj
-
-
 .vscode/
-

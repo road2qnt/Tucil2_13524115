@@ -1,5 +1,6 @@
-bin/
-test/
-*.o
-*.obj
+
+
+bin/*.o
+bin/*.obj
+
 .vscode/
